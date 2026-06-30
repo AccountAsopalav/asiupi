@@ -1,0 +1,30 @@
+{
+  "short_name": "AsōPalav ERP",
+  "name": "AsōPalav ERP Voucher & Expense Manager",
+  "description": "Enterprise Resource Planning and Voucher OS for AsōPalav.",
+  "icons": [
+    {
+      "src": "/pwa-icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#006b35",
+  "theme_color": "#006b35",
+  "display": "standalone",
+  "orientation": "any"
+}
